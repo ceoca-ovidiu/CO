@@ -7,3 +7,5 @@
 **Universitate:** Universitatea Tehnică din Cluj-Napoca
 
 **MATLAB:** 2024b
+
+**Nota proiect:** 9
